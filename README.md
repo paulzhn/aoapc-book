@@ -3,6 +3,7 @@ Automatically exported from code.google.com/p/aoapc-book
 丛书《算法艺术与信息学竞赛》官方资料，包括代码、测试数据、勘误等
 
 官方资料
+
 《算法竞赛入门经典》相关资料： BeginningAlgorithmContests
 
 《算法竞赛入门经典——训练指南》相关资料： TrainingGuide
@@ -10,6 +11,7 @@ Automatically exported from code.google.com/p/aoapc-book
 《算法竞赛入门经典（第二版）》相关资料： BeginningAlgorithmContests2nd
 
 UVa特别题库
+
 UVa网站专门为本丛书设立的分类题库配合，方便读者提交。
 
 《算法竞赛入门经典》：
